@@ -23,7 +23,7 @@ To fix just type this:
 ```
 npm i discord.js
 ```
-
+_________
 ```
 npm i (module name)
 ```
