@@ -11,8 +11,7 @@ Now, when you have downloaded and extracted, go to the directory where index.js 
 
 ![Like this](https://i.imgur.com/6GZ6Fz9_d.webp?maxwidth=760&fidelity=grand)
 
-
-
+_____________________________________________________________________________________________________________________
 **node .** just start your project to go online and show you errors
 ```
 node .
@@ -24,7 +23,7 @@ To fix just type **npm i discord.js**
 install all modules like this one
 
 
-
+_____________________________________________________________________________________________________________________
 ```
 npm i (module name)
 ```
