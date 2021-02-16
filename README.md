@@ -11,6 +11,8 @@ Now, when you have downloaded and extracted, go to the directory where index.js 
 
 ![Like this](https://i.imgur.com/6GZ6Fz9_d.webp?maxwidth=760&fidelity=grand)
 
+
+
 **node .** just start your project to go online and show you errors
 ```
 node .
@@ -20,6 +22,7 @@ You dont have module "discord.js"
 
 To fix just type **npm i discord.js**
 install all modules like this one
+
 
 
 ```
