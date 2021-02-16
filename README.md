@@ -19,9 +19,10 @@ node .
 ![This is error](https://i.imgur.com/4yC0Rzt_d.webp?maxwidth=760&fidelity=grand)
 You dont have module "discord.js"
 
-To fix just type **npm i discord.js**
-install all modules like this one
-
+To fix just type this:
+```
+npm i discord.js
+```
 
 _____________________________________________________________________________________________________________________
 ```
