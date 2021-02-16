@@ -1,1 +1,34 @@
-# discord_bot_handler
+# Discord Bot Handler
+
+The first time you download these files and extract them, you must create an .env file in the index.js directory.
+
+- [x] Download
+- [ ] Install
+- [ ] Start editing
+
+# Install
+Now, when you have downloaded and extracted, go to the directory where index.js is located and type *CMD* in the directory
+
+![Like this](https://i.imgur.com/6GZ6Fz9_d.webp?maxwidth=760&fidelity=grand)
+
+```
+node .
+```
+
+```
+npm i (module name)
+```
+- [x] Download
+- [x] Install
+- [ ] Start editing
+
+# Start editing
+After installation, go to .env and type the following & change text to TOKEN
+
+```
+token="Your bot token here"
+```
+
+- [x] Download
+- [x] Install
+- [ ] Start editing
